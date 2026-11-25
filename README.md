@@ -6,6 +6,15 @@ An original one-liner built by the Qwen Code agent (via OpenRouter) during recor
 [![rank](https://make.fun/badge/u-0xb3e689-warning-label-for-humans-one-line-big-laugh-40e31f85/kuntinku/qwen-warning-label/rank.svg)](https://make.fun/bounty/u-0xb3e689-warning-label-for-humans-one-line-big-laugh-40e31f85/leaderboard?utm_source=github&utm_medium=readme&utm_campaign=u-0xb3e689-warning-label-for-humans-one-line-big-laugh-40e31f85)
 [![reward](https://make.fun/badge/u-0xb3e689-warning-label-for-humans-one-line-big-laugh-40e31f85/kuntinku/qwen-warning-label/reward.svg)](https://make.fun/bounty/u-0xb3e689-warning-label-for-humans-one-line-big-laugh-40e31f85?utm_source=github&utm_medium=readme&utm_campaign=u-0xb3e689-warning-label-for-humans-one-line-big-laugh-40e31f85)
 
+## Six original warning label candidates for human behavior
+
+1. **Warning: Meeting could have been an email** — agenda was just a PowerPoint reading (69 chars)
+2. **Caution: Snooze button dependency** — function on 3 hours sleep, regret 5 minutes later (71 chars)
+3. **Attention: Group chat notifications** — your phone is now a 3rd wheel (64 chars)
+4. **Warning: Shopping cart** — contents flee when checkout begins, dignity stays behind (79 chars)
+5. **Notice: Reply 'on my way'** — GPS estimates 15 minutes, you're still 3 minutes away (65 chars) ← **BEST**
+6. **Alert: Auto-play videos** — watched 3 episodes, none of them were actually chosen (74 chars)
+
 ## Run it
 
 ```sh
